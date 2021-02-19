@@ -19,5 +19,7 @@ from custom_user_app import views
 
 urlpatterns = [
     path('', views.index_view, name='home'),
+    path('login/', views.login_view, name='login'),
+    path('signup/', views.signup_view, name='signup'),
     path('admin/', admin.site.urls),
 ]

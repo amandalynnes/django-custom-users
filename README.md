@@ -1,5 +1,5 @@
 <!-- 
-People who helped me: Peter Marsh
+People who helped me: Peter Marsh, Jonny Sueck
 Resources used:
 https://groups.google.com/g/django-users/c/RnPEUEAvvE0?pli=1
 

@@ -9,7 +9,7 @@
     <h1>{{ heading }}</h1>
     <p>---------------------------------------------------------------------------------------------------------------------------></p>
 
-    <h3> Username <em>{{ username }}</em> is logged in under the display name <em>{{ display_nm }}</em>.</h3>
+    <h3> Username <em>{{ request.user.username }}</em> is logged in under the display name <em>{{ request.user.Display_name }}</em>.</h3>
 
     <p>---------------------------------------------------------------------------------------------------------------------------></p>
 
