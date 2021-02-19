@@ -9,3 +9,6 @@ class MyCustomUser(AbstractUser):
     Homepage = models.URLField(null=True, blank=True)
 
     REQUIRED_FIELDS = ['Display_name', 'Age']
+
+    def __str__(self):
+        return self.Display_name
