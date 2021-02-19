@@ -11,6 +11,8 @@ class MyCustomUserAdmin(UserAdmin):
         (None, {'fields': ['password']}),
         (None, {'fields': ['display_name']}),
         (None, {'fields': ['age']}),
+        (None, {'fields': ['homepage']}),
+
     ]
 
 admin.site.register(MyCustomUser, MyCustomUserAdmin)
