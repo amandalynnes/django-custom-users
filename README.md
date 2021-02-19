@@ -1,3 +1,14 @@
+<!-- 
+People who helped me: Peter Marsh
+Resources used:
+https://groups.google.com/g/django-users/c/RnPEUEAvvE0?pli=1
+
+https://docs.djangoproject.com/en/dev/topics/auth/customizing/#django.contrib.auth.models.CustomUser.REQUIRED_FIELDS
+
+ -->
+
+
+
 # django-custom-users
 
 There are two ways to extend users in Django: the "profile" method and a custom user. We've already used the profile method for our first project, so now we'll cover the custom user.
