@@ -5,6 +5,8 @@ https://groups.google.com/g/django-users/c/RnPEUEAvvE0?pli=1
 
 https://docs.djangoproject.com/en/dev/topics/auth/customizing/#django.contrib.auth.models.CustomUser.REQUIRED_FIELDS
 
+https://docs.djangoproject.com/en/3.1/intro/tutorial07/
+
  -->
 
 

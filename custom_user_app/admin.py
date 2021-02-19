@@ -9,9 +9,9 @@ class MyCustomUserAdmin(UserAdmin):
     fieldsets = [
         (None, {'fields': ['username']}),
         (None, {'fields': ['password']}),
-        (None, {'fields': ['display_name']}),
-        (None, {'fields': ['age']}),
-        (None, {'fields': ['homepage']}),
+        (None, {'fields': ['Display_name']}),
+        (None, {'fields': ['Age']}),
+        (None, {'fields': ['Homepage']}),
 
     ]
 
